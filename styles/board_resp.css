@@ -256,6 +256,8 @@ main {
 
   .mobileMoveContainer {
     display: flex;
+    pointer-events: auto;
+    cursor: pointer;
   }
 
   .headerLogoResp {
