@@ -403,7 +403,7 @@ input[name="searchResp"] {
   width: clamp(300px, 100%, 500px);
   border-radius: 30px;
   background-color: #ffffff;
-  padding: 17px;
+  padding: 13px;
   gap: 24px;
   overflow-y: auto;
 }
