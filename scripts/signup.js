@@ -1,5 +1,4 @@
-const FB_URL =
-  "https://join-427-default-rtdb.europe-west1.firebasedatabase.app/";
+let FB_URL = "https://join-1de12-default-rtdb.europe-west1.firebasedatabase.app/" ;
 let isPasswordVisible = false;
 let isConfirmPasswordVisible = false;
 let signUpButton = document.getElementById("signUpButton");

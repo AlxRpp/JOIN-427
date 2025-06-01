@@ -1,4 +1,5 @@
-let FB_URL = "https://join-427-default-rtdb.europe-west1.firebasedatabase.app/";
+let FB_URL = "https://join-1de12-default-rtdb.europe-west1.firebasedatabase.app/" ;
+
 
 /**
  * This function starts when the HTML-Body is loaded
